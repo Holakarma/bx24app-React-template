@@ -1,0 +1,8 @@
+.Help {
+    fill: #000000;
+    transition: all ease .3s;
+}
+
+.Help:hover {
+    fill: #676767;
+}
